@@ -1,0 +1,14 @@
+node_modules/
+dist/
+build/
+
+__pycache__/
+*.pyc
+
+.env
+.env.local
+
+.vscode/
+frontend_backup/
+server_backup/
+.vscode/
